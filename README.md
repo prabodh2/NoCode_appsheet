@@ -1,4 +1,4 @@
-# 13Badimi-Prabodh-23-27-Sem1-NoCode
+# Sem1-NoCode
 # Workout app
 
 Browser Link=https://www.appsheet.com/start/747d797e-b2ad-4c78-8e53-ebf2e09741b5
